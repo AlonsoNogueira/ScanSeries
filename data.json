@@ -1,0 +1,142 @@
+[
+    {
+        "nome": "Stranger Things",
+        "Description": "Série de ficção científica que mistura terror e drama. Em uma pequena cidade, um grupo de amigos se envolve em uma série de eventos sobrenaturais.",
+        "ano": 2016,
+        "diretor": "The Duffer Brothers",
+        "Streamings": "Disponivel na netflix"
+    },
+    {
+        "nome": "Game of Thrones",
+        "Description": "Nove famílias nobres lutam pelo controle das terras míticas de Westeros, enquanto uma antiga ameaça ressurge.",
+        "ano": 2011,
+        "diretor": "David Benioff, D. B. Weiss",
+        "Streamings": "Disponível na HBO Max"
+    },
+    {
+        "nome": "Breaking Bad",
+        "Description": "Um professor de química do ensino médio diagnosticado com câncer de pulmão inoperável passa a produzir e vender metanfetamina.",
+        "ano": 2008,
+        "diretor": "Vince Gilligan",
+        "Streamings": "Disponível na Netflix"
+    },
+    {
+        "nome": "The Mandalorian",
+        "Description": "As viagens de um caçador de recompensas solitário nos confins da galáxia, longe da autoridade da Nova República.",
+        "ano": 2019,
+        "diretor": "Jon Favreau",
+        "Streamings": "Disponível no Disney+"
+    },
+    {
+        "nome": "The Witcher",
+        "Description": "Geralt de Rívia, um caçador de monstros solitário, luta para encontrar seu lugar em um mundo onde as pessoas frequentemente se mostram mais perversas que as bestas.",
+        "ano": 2019,
+        "diretor": "Lauren Schmidt Hissrich",
+        "Streamings": "Disponível na Netflix"
+    },
+    {
+        "nome": "The Office (US)",
+        "Description": "Um mockumentary sobre o dia a dia dos funcionários de um escritório da empresa de papel Dunder Mifflin.",
+        "ano": 2005,
+        "diretor": "Greg Daniels",
+        "Streamings": "Disponível na HBO Max, Netflix"
+    },
+    {
+        "nome": "Friends",
+        "Description": "Seis amigos em Nova York enfrentam a vida e o amor na cidade grande e o que significa ser um amigo.",
+        "ano": 1994,
+        "diretor": "David Crane, Marta Kauffman",
+        "Streamings": "Disponível na HBO Max"
+    },
+    {
+        "nome": "La Casa de Papel",
+        "Description": "Oito ladrões se trancam na Casa da Moeda da Espanha com reféns como parte de um plano ambicioso que envolve imprimir bilhões de euros.",
+        "ano": 2017,
+        "diretor": "Álex Pina",
+        "Streamings": "Disponível na Netflix"
+    },
+    {
+        "nome": "Dark",
+        "Description": "O desaparecimento de duas crianças em uma cidade alemã expõe as relações fraturadas, vidas duplas e o passado sombrio de quatro famílias.",
+        "ano": 2017,
+        "diretor": "Baran bo Odar, Jantje Friese",
+        "Streamings": "Disponível na Netflix"
+    },
+    {
+        "nome": "Black Mirror",
+        "Description": "Uma série de antologia que explora um futuro distorcido e de alta tecnologia, onde as maiores inovações da humanidade colidem com seus instintos mais sombrios.",
+        "ano": 2011,
+        "diretor": "Charlie Brooker",
+        "Streamings": "Disponível na Netflix"
+    },
+    {
+        "nome": "The Crown",
+        "Description": "Segue as rivalidades políticas e o romance do reinado da Rainha Elizabeth II e os eventos que moldaram a segunda metade do século XX.",
+        "ano": 2016,
+        "diretor": "Peter Morgan",
+        "Streamings": "Disponível na Netflix"
+    },
+    {
+        "nome": "Chernobyl",
+        "Description": "Minissérie que dramatiza a história do desastre nuclear de Chernobyl em abril de 1986 e os esforços de limpeza sem precedentes que se seguiram.",
+        "ano": 2019,
+        "diretor": "Craig Mazin",
+        "Streamings": "Disponível na HBO Max"
+    },
+    {
+        "nome": "Squid Game",
+        "Description": "Centenas de jogadores com dificuldades financeiras aceitam um convite estranho para competir em jogos infantis. Um prêmio tentador os aguarda, mas as apostas são mortais.",
+        "ano": 2021,
+        "diretor": "Hwang Dong-hyuk",
+        "Streamings": "Disponível na Netflix"
+    },
+    {
+        "nome": "Arcane",
+        "Description": "Ambientado no universo de League of Legends, a série mergulha no delicado equilíbrio entre as cidades de Piltover e Zaun.",
+        "ano": 2021,
+        "diretor": "Christian Linke, Alex Yee",
+        "Streamings": "Disponível na Netflix"
+    },
+    {
+        "nome": "Severance",
+        "Description": "Mark lidera uma equipe de funcionários de escritório cujas memórias foram cirurgicamente divididas entre suas vidas profissionais e pessoais.",
+        "ano": 2022,
+        "diretor": "Dan Erickson",
+        "Streamings": "Disponível na Apple TV+"
+    },
+    {
+        "nome": "Ted Lasso",
+        "Description": "Um treinador de futebol americano é contratado para gerenciar um time de futebol britânico; o que lhe falta em conhecimento, ele compensa com otimismo.",
+        "ano": 2020,
+        "diretor": "Jason Sudeikis, Bill Lawrence",
+        "Streamings": "Disponível na Apple TV+"
+    },
+    {
+        "nome": "Succession",
+        "Description": "A série acompanha a disfuncional família Roy, proprietária de um império global de mídia e entretenimento, e sua luta pelo controle da empresa.",
+        "ano": 2018,
+        "diretor": "Jesse Armstrong",
+        "Streamings": "Disponível na HBO Max"
+    },
+    {
+        "nome": "The Boys",
+        "Description": "Um grupo de vigilantes se propõe a derrubar super-heróis corruptos que abusam de seus superpoderes.",
+        "ano": 2019,
+        "diretor": "Eric Kripke",
+        "Streamings": "Disponível no Prime Video"
+    },
+    {
+        "nome": "Fleabag",
+        "Description": "Uma jovem de luto navega pela vida e pelo amor em Londres enquanto tenta lidar com sua família excêntrica e disfuncional.",
+        "ano": 2016,
+        "diretor": "Phoebe Waller-Bridge",
+        "Streamings": "Disponível no Prime Video"
+    },
+    {
+        "nome": "Peaky Blinders",
+        "Description": "Uma notória gangue em Birmingham, Inglaterra, em 1919, é liderada pelo feroz Tommy Shelby, um chefe do crime determinado a subir no mundo.",
+        "ano": 2013,
+        "diretor": "Steven Knight",
+        "Streamings": "Disponível na Netflix"
+    }
+]
